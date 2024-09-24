@@ -16,7 +16,7 @@
 ## Checkpoints
 We have also provided the weight files and log files for "MIC + Guidance Training" on the GTA → Cityscapes task.
 
-**[[log files]](checkpoints/20240128_123801.log)**
+**[[log files]](20240128_123801.log)**
 **[[weights]](checkpoints/best_mIoU_iter_36000.pth)**
 
 ## Training
